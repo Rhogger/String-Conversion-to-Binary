@@ -1,4 +1,4 @@
-<h1 align="center">Converter Objeto em XML</h1>
+<h1 align="center">Conversor de Objeto em Binário</h1>
 
 <div align="center">
 
@@ -20,17 +20,15 @@
 
 Projeto desenvolvido durante atividade de Desenvolvimento para Persistência do meu curso de Engenharia de Software.
 
-Basicamente é necessário converter meu objeto (string) em um arquivo XML.
+Basicamente é necessário converter meu objeto (string) em um arquivo binário.
 
 <br>
 <br>
 
 ## 🚀 Tecnologias <a name = "tecnologias"></a>
 
-- Node
-- JavaScript
-- Readline Sync
-- xml2js
+- Python
+- pickle
 
 <br>
 <br>
